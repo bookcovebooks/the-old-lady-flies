@@ -2,7 +2,7 @@
 
 Title: The Old Lady Flies  
 Author: Whitfield, Raoul F.    
-Original Publisher: Street & Smith Copporation (in Top-Notch Magazine)  
+Original Publisher: Street & Smith Corporation (in Top-Notch Magazine)  
 Original Publication Date: August 1, 1927  
 
 ## About This Book
