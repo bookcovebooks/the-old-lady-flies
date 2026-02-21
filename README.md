@@ -1,0 +1,28 @@
+# The Old Lady Flies
+
+Title: The Old Lady Flies  
+Author: Whitfield, Raoul F.    
+Original Publisher: Street & Smith Copporation (in Top-Notch Magazine)  
+Original Publication Date: August 1, 1927  
+
+## About This Book
+
+In the fading glow of barnstorming’s golden age, Russ Healy refuses to abandon the battered Jenny that carried him through war’s aftermath and the perilous thrills of a traveling flying circus. When hard times force the outfit to ground its oldest plane, Russ chooses loyalty over profit—and pride over prudence. As tempers flare and a dangerous movie stunt beckons, the sky becomes a proving ground for devotion, daring, and the cost of sticking to one’s guns. Set against the raw spectacle of early aviation, this high-flying tale captures the grit, camaraderie, and recklessness of pilots who lived by lift and nerve.
+
+## Keywords
+
+barnstorming aviation fiction,
+vintage biplane adventure,
+1920s flying circus,
+early Hollywood stunt pilots,
+WWI aviation aftermath,
+loyalty and pride drama,
+classic pulp air story,
+aerial stunts and crashes,
+historical aviation novella
+
+## Source Format
+
+This repository contains the source files to generate this book in text
+and HTML using the ppt2h program. This book is part of the
+[bookcove](https://bookcove.net) collection.
